@@ -1,9 +1,0 @@
-pip install tls_client
-pip install uuid
-pip install websocket
-pip install colorama
-pip install colorist
-pip install datetime
-pip install colorhex
-pip install fore
-pip install requests
