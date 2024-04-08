@@ -5,3 +5,5 @@ cd panic-linux
 pip3 install -r requirements.txt
 
 python3 PANIC.PY
+
+(not mine)
